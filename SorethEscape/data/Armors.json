@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"atypeId":1,"description":"An old and wornout pair of prison shoes, allows prison\nguards to identify prisoner threat.","etypeId":6,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":140,"name":"Prison Shoes","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":2,"atypeId":1,"description":"Heavy bracers are locked around the ankles to slow\ndown potential escapees.","etypeId":7,"traits":[{"code":22,"dataId":1,"value":0},{"code":53,"dataId":7,"value":1}],"iconIndex":144,"name":"Prison Bracers","note":"","params":[0,0,0,0,0,0,-3,0],"price":0},
+{"id":3,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]

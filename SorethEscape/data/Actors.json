@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"Actor4_1","characterIndex":0,"characterName":"Actor4","classId":1,"equips":[0,0,0,0,0,1,2],"faceIndex":0,"faceName":"Actor4","traits":[],"initialLevel":2,"maxLevel":90,"name":"Jason","nickname":"","note":"","profile":"Prisoner of the Soreth Dungeons."},
+{"id":2,"battlerName":"Actor4_2","characterIndex":1,"characterName":"Actor4","classId":1,"equips":[1,0,0,0,0,1,2],"faceIndex":1,"faceName":"Actor4","traits":[],"initialLevel":3,"maxLevel":90,"name":"Dragoz","nickname":"","note":"","profile":"Prisoner of the Soreth Dungeons."}
+]
